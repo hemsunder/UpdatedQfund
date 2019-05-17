@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131983" started-at="2019-05-16T03:10:54Z" finished-at="2019-05-16T03:13:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131983" started-at="2019-05-16T03:10:54Z" finished-at="2019-05-16T03:13:06Z">
+      <class name="com.qa.TestCases.Testcase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.TestCases.Testcase@91161c7]" name="setup" is-config="true" duration-ms="10928" started-at="2019-05-16T03:10:55Z" finished-at="2019-05-16T03:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NewLoanTest()[pri:2, instance:com.qa.TestCases.Testcase@91161c7]" name="NewLoanTest" duration-ms="120903" started-at="2019-05-16T03:11:06Z" finished-at="2019-05-16T03:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewLoanTest -->
+      </class> <!-- com.qa.TestCases.Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
