@@ -6,7 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 import com.qa.Base.TestBase;
 
 
-public class LoginPage extends TestBase{
+public class LoginPage extends TestBase
+{
 	
 	@FindBy(name="loginRequestBean.userId")
 	WebElement username;
